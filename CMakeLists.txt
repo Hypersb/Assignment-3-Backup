@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 include_directories(include)
 
-add_executable(assignment3 src/assignment03.cpp)
+add_executable(assignment03 src/assignment03.cpp)
